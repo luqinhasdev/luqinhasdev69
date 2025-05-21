@@ -5,7 +5,7 @@
 <h1>結城 理</h1>
 
 <div>
-  <a href="https://github.com/clarkjkkj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clarkjkkj&show_icons=true&theme=dark"> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarkjkkj&layout=compact&show_icons=true&theme=dark">
+  <a href="https://github.com/luqinhasdev69">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luqinhasdev69&show_icons=true&theme=dark"> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqinhasdev69&layout=compact&show_icons=true&theme=dark">
 </div>
