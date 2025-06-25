@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-  <img width="400px"align="center" alt="Yuki Makoto" src=""
+  <img width="400px"align="center" alt="" src=""
 </div>
 
 <h1>結城 理</h1>
