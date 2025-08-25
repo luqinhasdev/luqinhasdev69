@@ -6,6 +6,6 @@
 
 <div align="center">
   <a href="https://github.com/luqinhasdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luqinhasdev69&show_icons=true&theme=dark"> <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqinhasdev69&layout=compact&show_icons=true&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luqinhasdev&show_icons=true&theme=dark"> <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luqinhasdev&layout=compact&show_icons=true&theme=dark">
 </div>
