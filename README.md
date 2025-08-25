@@ -1,5 +1,5 @@
 <div style="display: inline_block">
-  <img width="400px"align="center" alt="" src="https://i.pinimg.com/originals/b9/4a/49/b94a495938540565dc216c3a39c48bc6.gif"
+  <img width="700px"align="center" alt="" src="https://i.pinimg.com/originals/b9/4a/49/b94a495938540565dc216c3a39c48bc6.gif"
 </div>
 
 <h1>結城 理</h1>
